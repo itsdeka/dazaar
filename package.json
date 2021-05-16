@@ -11,6 +11,7 @@
     "hypercore-multi-key": "^4.0.0",
     "hypercore-protocol": "^8.0.0",
     "hyperswarm": "^2.13.0",
+    "hyperswarm-web": "^2.1.1",
     "hypertrie": "^5.0.1",
     "pump": "^3.0.0",
     "random-access-file": "^2.1.3",

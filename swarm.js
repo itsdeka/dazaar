@@ -1,4 +1,4 @@
-const network = require('hyperswarm')
+const network = require('hyperswarm-web')
 const pump = require('pump')
 const market = require('./')
 
